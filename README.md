@@ -1,2 +1,7 @@
 # Drug-optimization-and-prediction-12-Methoxy-carnosic-acids-found-in-rosemary-
 Drug optimization of 12-Methoxy-carnosic acids found in rosemary and prediction as 5-alpha reductase enzyme inhibitor  using computational tools compared to  reference finasteride 
+
+
+II. Abstract: 
+It has been known for many decades that rosemary is used as treatment for Alopecia and hair loss
+This paper is addressing the efficacy of 12-Methoxy carnosic acid found in rosemary as 5 alpha reductase inhibitor compared to finasteride through molecular docking techniques. Using docking tools like Auto dock tools to assign enzyme configuration box and then using vina tool for molecular docking and getting reports for both ligands. Also chemsketch was used to optimize the drug and ensure the docking of the 2 pockets of 5 alpha reductase . Also pymol was used for visualization and ligand-enzyme interactions different orientations with different scores. Also open babel was used to handle the many conversions in cheminformatics nature. The results were very promising for a natural molecule like 12-methoxy carnosic acid molecule as 5 alpha reductase inhibitor . This review authenticates that rosemary has appeared as a reliable source for curing hair loss, by inhibiting 5 alpha reductase enzyme. It also opens the door for further studies on single isolated constituents, especially carnosic acid,and support drug discovery with computational and cheminformatics techniques.
